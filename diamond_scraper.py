@@ -100,6 +100,9 @@ if __name__=="__main__":
     main()
     
             
-    
+    <footer>
+    <p>&copy; 2025 Joseph Thornton Jr. All Rights Reserved. Jay Allen Jewelry.</p>
+</footer>
+
 
 
