@@ -98,7 +98,7 @@ def main():
 
 if __name__=="__main__":
     main()
-    
+    copyright ©️ 2025 Joseph Thornton jr all rights reserved.
             
     
 
